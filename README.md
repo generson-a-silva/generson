@@ -65,9 +65,9 @@
 
 ## 📫 Contato
 
-[![Site](https://img.shields.io/badge/Site-genersonsilva.com.br-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://genersonsilva.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-genersonavelino-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genersonavelino)
-[![Instagram](https://img.shields.io/badge/Instagram-generson.a.silva-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/generson.a.silva)
+[![Site](https://img.shields.io/badge/🌐%20Site-genersonsilva.com.br-1F2937?style=for-the-badge)](https://genersonsilva.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-genersonavelino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genersonavelino)
+[![Instagram](https://img.shields.io/badge/Instagram-generson.a.silva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/generson.a.silva)
 
 Estou aberto a propostas de projetos, conversas sobre **React Native**, **Electron** e **Linux**. Fale comigo pelo site ou pelo LinkedIn.
 
